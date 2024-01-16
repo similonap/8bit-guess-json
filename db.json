@@ -1,5 +1,4 @@
-{
-    "images": [
+[
         {
             "id": 0,
             "answer": "Star Wars",
@@ -283,4 +282,3 @@
             "url": "https://raw.githubusercontent.com/similonap/8bit-guess-json/main/images/img-FvZIu4gEJnYaD0fn1c1xQT13.png"
         }
     ]
-}
