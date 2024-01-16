@@ -1,0 +1,284 @@
+[
+    {
+        "id": 0,
+        "answer": "Star Wars",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-jlrg9eLHL2w0ZIr33FgjD57S.png"
+    },
+    {
+        "id": 1,
+        "answer": "Titanic",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-nITeJ5E7rTF7QWvIJPXQRoWB.png"
+    },
+    {
+        "id": 2,
+        "answer": "Jurassic Park",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-eztDcmB0Zk5YILWedAH8p4RD.png"
+    },
+    {
+        "id": 3,
+        "answer": "Forrest Gump",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-F3LwewMQei5uM9dJt6FBoAzJ.png"
+    },
+    {
+        "id": 4,
+        "answer": "The Matrix",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-urRpVTcf9P2q9tR8MpJqixby.png"
+    },
+    {
+        "id": 5,
+        "answer": "Avatar",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-D8GHd36mxlOPKPQNIvNf9yZb.png"
+    },
+    {
+        "id": 6,
+        "answer": "Jaws",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-uFK66wkW6lJLntcKVZRtYJ45.png"
+    },
+    {
+        "id": 7,
+        "answer": "Harry Potter",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-XMUP3CG5taKKKvGDWutGuc89.png"
+    },
+    {
+        "id": 8,
+        "answer": "Batman",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-tyhll6unytmTrQregXpvyyvG.png"
+    },
+    {
+        "id": 9,
+        "answer": "Inception",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-Af111yOxfux2XkaX97bBKtmA.png"
+    },
+    {
+        "id": 10,
+        "answer": "ET",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-IAHs2zlD8xCD6HkjRgl71NpZ.png"
+    },
+    {
+        "id": 11,
+        "answer": "Indiana Jones",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-4b4wLPisWVb4KLaybiUriqCC.png"
+    },
+    {
+        "id": 12,
+        "answer": "Back to the Future",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-kpCueHohze9YwX2kELv7oLyh.png"
+    },
+    {
+        "id": 13,
+        "answer": "The Shawshank Redemption",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-DcVxC95AU8nGJPc44i2sDP8w.png"
+    },
+    {
+        "id": 14,
+        "answer": "Pulp Fiction",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-9TFNy6NxRj9fD90EayfSMGq3.png"
+    },
+    {
+        "id": 15,
+        "answer": "Schindler's List",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-GbRJ9HClYYI9y98yxHzKI7Hk.png"
+    },
+    {
+        "id": 16,
+        "answer": "Toy Story",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-EMXT0tePj0ErpCJ9IzPSE6pS.png"
+    },
+    {
+        "id": 17,
+        "answer": "Gone with the Wind",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-sIfLtsuF3ZbDGFer889lYrIN.png"
+    },
+    {
+        "id": 18,
+        "answer": "Stranger Things",
+        "type": "series",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-cza9z961vFVpVSp70s1JAr4m.png"
+    },
+    {
+        "id": 19,
+        "answer": "The Witcher",
+        "type": "series",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-WROIqGXV61Ekjm3m0njGhrFU.png"
+    },
+    {
+        "id": 20,
+        "answer": "Money Heist (La Casa de Papel)",
+        "type": "series",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-rCJcpdIhaCRiMr1VA1jMXNAF.png"
+    },
+    {
+        "id": 21,
+        "answer": "Bridgerton",
+        "type": "series",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-ylcae5WtpsUVgM9LgedtTSoB.png"
+    },
+    {
+        "id": 22,
+        "answer": "The Crown",
+        "type": "series",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-A0PLfuLJE7xKW02bpVMV8KjQ.png"
+    },
+    {
+        "id": 23,
+        "answer": "Squid Game",
+        "type": "series",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-gAVY2MAgsFdHOEkUrmsDb4Dw.png"
+    },
+    {
+        "id": 24,
+        "answer": "Ozark",
+        "type": "series",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-639XuzTiBw0vi6MLxqe9meaN.png"
+    },
+    {
+        "id": 25,
+        "answer": "Narcos",
+        "type": "series",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-cnT4MMq6n7YqwxCEGdmWnO30.png"
+    },
+    {
+        "id": 26,
+        "answer": "The Umbrella Academy",
+        "type": "series",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-hEgqJJs7sdNntnI01s3uJt8m.png"
+    },
+    {
+        "id": 27,
+        "answer": "Black Mirror",
+        "type": "series",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-V6s1jcr4uEOoPx0wfMir7Cdc.png"
+    },
+    {
+        "id": 28,
+        "answer": "Frozen",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-a0P7USHADW2fF9S5r8AjkWAs.png"
+    },
+    {
+        "id": 29,
+        "answer": "The Lion King",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-jTP3o7jriNzC69L9ZHhluSPf.png"
+    },
+    {
+        "id": 30,
+        "answer": "Aladdin",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-QntfNc7EIYXzYFuWlgj5d8Gd.png"
+    },
+    {
+        "id": 31,
+        "answer": "The Little Mermaid",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-hf1Nce48I1rGZH3jMahFqwne.png"
+    },
+    {
+        "id": 32,
+        "answer": "Beauty and the Beast",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-b8Vq8Ez7WHov1u2LUfEem5x4.png"
+    },
+    {
+        "id": 33,
+        "answer": "Barbie",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-tnpBlVSXaDBK0tJDbkgirX0I.png"
+    },
+    {
+        "id": 34,
+        "answer": "Oppenheimer",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-RiIW7gTYu3pCtHlvnWe0rZ7N.png"
+    },
+    {
+        "id": 35,
+        "answer": "Wonka",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-cZz51Ng0UQdtl7nrob9taV1R.png"
+    },
+    {
+        "id": 36,
+        "answer": "Aquaman",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-nbRCNRxNmAfRKkOoRbsVnV7k.png"
+    },
+    {
+        "id": 37,
+        "answer": "Godzilla",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-kMk2SgeHkbu91vc5Z4IwdFSQ.png"
+    },
+    {
+        "id": 38,
+        "answer": "The hunger games",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-MrPoKcKWSO7UjB6yWwmhNHvb.png"
+    },
+    {
+        "id": 39,
+        "answer": "Saving private ryan",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-zgfIjPij7aCPVclEm7ly635L.png"
+    },
+    {
+        "id": 40,
+        "answer": "Fight Club",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-CTHbvQ15hRJybh7f5oUoaz9V.png"
+    },
+    {
+        "id": 41,
+        "answer": "Inglourious basterds",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-1ZKb8wQlwzjmH4wSvxk4wRHU.png"
+    },
+    {
+        "id": 42,
+        "answer": "Gladiator",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-tdmojz84sQmfJw58vTtMrfaV.png"
+    },
+    {
+        "id": 43,
+        "answer": "Incredibles",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-ja94elYSD0jWPx7QSvTTrRpl.png"
+    },
+    {
+        "id": 44,
+        "answer": "Unbreakable",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-3pdGeKKJQ8kv1vZ7CoCmAYwA.png"
+    },
+    {
+        "id": 45,
+        "answer": "Fast and furious",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-f6QHdm6heakvWDQmT0jED4Ch.png"
+    },
+    {
+        "id": 46,
+        "answer": "Everything Everywhere All at Once",
+        "type": "movie",
+        "url": "/workspaces/typescript-node-5/cryptic-generator/images/img-FvZIu4gEJnYaD0fn1c1xQT13.png"
+    }
+]
